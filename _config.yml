@@ -18,5 +18,5 @@ defaults:
     values:
       layout: "default"
 
-  url: damg75
+  url: damg75.github.io
     baseurl: /jekyll-guide
