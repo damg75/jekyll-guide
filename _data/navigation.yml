@@ -1,8 +1,8 @@
 - name: Home
-  link: damg75.github.io/
+  link: /
 - name: About
-  link: damg75.github.io/about.html
+  link: /about.html
 - name: Blog
-  link: damg75.github.io/blog.html
+  link: /blog.html
 - name: Staff
-  link: damg75.github.io/staff.html
+  link: /staff.html
